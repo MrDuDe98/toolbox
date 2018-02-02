@@ -1,0 +1,76 @@
+[{
+    "obs":"One dozen wings, come in hot or bbq flavour.",
+    "prato":"Chicken Wings",
+    "tipo":"appetizer",
+    "total":7,
+    "imagem":"https://truffle-assets.imgix.net/c868f45b-rc309-megan-spicychickenwings-dishland2.jpg"
+},
+{
+    "obs":"Delicious pan fried bread with olive oil.",
+    "prato":"Garlic Bread",
+    "tipo":"appetizer",
+    "imagem":"https://truffle-assets.imgix.net/pxqrocxwsjcc_31ea4LTum4gA4wi4s6C2OU_PAO%20COM%20ALHO_THUMB_1920x1080.jpg",
+    "total":3},
+    
+{
+    "obs":"Great for sharing with friends. Tons of cheese and all the toppings.",
+    "prato":"Nachos",
+    "imagem":"http://www.tvsolcomunidade.com.br/wp-content/uploads/2017/05/maxresdefault.jpg",
+    "tipo":"appetizer",
+    "total":14},
+{
+    "obs":"Crisp tortilla chips and dip.",
+    "prato":"Chips &amp; Salsa",
+    "tipo":"appetizer",
+    "total":6},
+{
+    "obs":"Servied with garlic mayo for dipping.",
+    "prato":"Yam Fries",
+    "tipo":"appetizer",
+    "total":5},
+{
+    "obs":"A great healthy start to your meal.",
+    "prato":"Green Salad",
+    "tipo":"appetizer",
+    "total":9},
+
+{
+    "obs":"tomatoes, lettuce, cheese, salsa.",
+    "prato":"Veggie",
+    "tipo":"sandwich",
+    "total":12},
+
+{
+    "obs":"turkey, lettuce, cranberry, cheese, tomato.",
+    "prato":"Turkey",
+    "tipo":"sandwich",
+    "total":14},
+    
+{
+    "obs":"roast beef, mustard, pickles.",
+    "prato":"Roast Beef",
+    "tipo":"sandwich",
+    "total":14},
+    
+{
+    "obs":"tomatoes, lettuce, cheese, pickles.",
+    "prato":"Beef",
+    "tipo":"burguer",
+    "total":16},
+    
+{
+    "obs":"lettuce, cucumber, pickles.",
+    "prato":"Chicken",
+    "tipo":"burguer",
+    "total":16},
+    
+{
+    "obs":"lettuce, mushrooms, salsa.",
+    "prato":"Tofu",
+    "tipo":"burguer",
+    "total":14}
+
+
+
+
+]

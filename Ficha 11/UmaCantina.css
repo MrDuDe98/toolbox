@@ -1,0 +1,127 @@
+body {
+    background: #f8f9fa;
+    }
+
+.cor-principal {
+        color: rgb(220, 27, 20);
+        }
+.cor-principal:hover{
+  
+    
+  transition: 1s;  color: rgb(0, 195, 255);
+}
+    h1 {
+        font-weight: 900;
+        height: 36px;
+        margin: 0;
+        line-height: 0.8;
+        }
+section .container .col-lg-12 {
+            background-color: white;
+           }
+#carouselExampleIndicators{
+            color:black;
+            height: 210px;
+           }
+#carouselExampleIndicators .carousel-indicators li{
+            background-color: rgba(220, 20, 60, 0.3);
+           }
+#carouselExampleIndicators .carousel-indicators .active{
+            background-color: crimson;
+           }
+#carouselExampleIndicators .carousel-control-next-icon, .carousel-control-prev-icon{
+            background-color: crimson;
+           }
+.carousel-caption{
+            color: black;
+            top: 0;
+            padding: 60px 130px;
+           }
+.home-food img {
+            border-radius: 50%;
+            max-width: 100%;
+            height: auto;
+            }
+            footer {
+                color: white;
+                }
+               footer .container .col-lg-12{
+                background-color: maroon;
+                border-radius: 10px;
+                padding: 60px;
+               }
+               .social-media a {
+                padding: 0 10px;
+                color: white;
+                text-decoration: none;
+                }
+               .social-media a:hover {
+                color: grey;
+                }
+.acerca{
+    border: dashed 1px lightcoral;
+    padding: 5px;
+    margin-left: 15%;
+    margin-right:15%;
+    border-radius: 10px;
+}
+
+.foot3r{
+    padding: 5px;
+}
+
+.bigt{
+    /* margin-left:25%; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.txtac{
+    /* margin-right: 25%;
+    margin-left: 50%; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#banab{
+    border-image: solid 5px;
+}
+
+.titmenu{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(36, 36, 36);
+}
+.titmenu:hover{
+   transition: 0.5s; color: rgb(204, 1, 28);
+    
+
+}
+
+.infmenu{
+    color: rgb(36, 36, 36);
+font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: lighter;
+}
+
+.secmen{
+    border: dashed 1px rgb(204, 1, 28);
+    border-radius: 10px;
+}
+
+.rad{
+border-radius: 10px;
+}
+
+.preco {
+    font-weight: 700;
+    }
+   .obs {
+    width:12em;
+    word-wrap: break-word;
+    height: 5em;
+    overflow: hidden;
+   }
+
+.imgr{
+    width: 300px;
+    border-radius: 10px;
+}
